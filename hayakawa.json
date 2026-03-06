@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "registration_type": "",
+    "contract_name": "テスト",
+    "contract_name_kana": "",
+    "user_name": "",
+    "user_name_kana": "",
+    "postal_code": "",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "ipn_id": "",
+    "ip_address": "192.168.0.0",
+    "port": "",
+    "timestamp": "",
+    "provider": "",
+    "lawyer_id": "60208",
+    "memo": "",
+    "rights_holder": "SOD",
+    "google_drive_url": "",
+    "pdf_filename": "",
+    "created_at": "2026/3/6 19:40:32",
+    "updated_at": "2026/3/6 19:40:32"
+  }
+]
