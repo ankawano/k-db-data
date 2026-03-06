@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "registration_type": "新規",
+    "contract_name": "っっっっっｄ",
+    "contract_name_kana": "",
+    "user_name": "",
+    "user_name_kana": "",
+    "postal_code": "",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "ipn_id": "",
+    "ip_address": "",
+    "port": "",
+    "timestamp": "",
+    "provider": "",
+    "lawyer_id": "45088",
+    "memo": "",
+    "rights_holder": "",
+    "google_drive_url": "",
+    "pdf_filename": "テスト",
+    "created_at": "2026/3/6 20:37:32",
+    "updated_at": "2026/3/6 20:37:32"
+  }
+]
