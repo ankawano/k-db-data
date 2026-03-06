@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "registration_type": "",
+    "contract_name": "山下昭人",
+    "contract_name_kana": "",
+    "user_name": "",
+    "user_name_kana": "",
+    "postal_code": "",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "ipn_id": "",
+    "ip_address": "153.127.198.252",
+    "port": "",
+    "timestamp": "2024/06/26 14:09:47",
+    "provider": "",
+    "lawyer_id": "60208",
+    "memo": "",
+    "rights_holder": "株式会社ホットエンターテイメント",
+    "google_drive_url": "",
+    "pdf_filename": "",
+    "created_at": "2026/3/5 19:44:49",
+    "updated_at": "2026/3/5 19:44:49"
+  }
+]
